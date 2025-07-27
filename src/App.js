@@ -1,16 +1,13 @@
-import './App.css';
-import Routing from './Router.jsx'
-
-
+import "./App.css";
+import Routing from "./Router.jsx";
 
 function App() {
   return (
     <>
-       <Routing/>
+      <Routing />
     </>
-   
+
     //  return <Routing/>
-    
   );
 }
 
